@@ -1,3 +1,4 @@
+co.elastic.apm.agent.configuration.ProxyAuthConfigurator
 co.elastic.apm.agent.configuration.StartupInfo
 co.elastic.apm.agent.bci.MatcherTimerLifecycleListener
 co.elastic.apm.agent.metrics.builtin.JvmMemoryMetrics
